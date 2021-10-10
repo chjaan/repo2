@@ -1,0 +1,9 @@
+{
+	"name": "mydf-581",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "92d63e6d-92f0-4497-b9ae-fb8b1da5171c",
+		"tenantId": "5f08ffce-f1fd-46ec-ba8e-91db976e79d1"
+	}
+}
